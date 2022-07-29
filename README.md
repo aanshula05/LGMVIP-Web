@@ -1,4 +1,4 @@
-# LGMVIP-Web
+# LGMVIP-Web Development
 
 An online virtual internship in 'Web Development' offered by LetsGrowMore
 
