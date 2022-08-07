@@ -8,4 +8,5 @@ Task 1-
 Create a To Do List using HTML, CSS, Javascript
 
 IDE Used: Visual Studio Code
+
 Languages Used: HTML, CSS, JavaScript
