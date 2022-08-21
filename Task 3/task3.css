@@ -1,0 +1,63 @@
+h1 {
+    font-size: 35px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: #222629;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+body{
+    background: linear-gradient(to left,#8da5b7, #F76C6C);
+    padding: 20px;
+    font-size: 20px;
+    color:#222629;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.button1 {
+    padding: 10px 24px;
+    border-radius: 8px;
+    width: 200px;
+    font-size: 18px;
+
+}
+
+.button1:hover {
+    background-color: rgb(58, 153, 236);
+    color:white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.button2 {
+    padding: 10px 24px;
+    border-radius: 8px;
+    width: 200px;
+    font-size: 18px;
+
+}
+
+.button2:hover {
+    background-color: rgb(58, 153, 236);
+    color:white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+input.name {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 320px;
+    height:20px;
+}
+
+input.email {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 320px;
+    height:20px;
+}
+
+input.website{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 320px;
+    height:20px;
+}
